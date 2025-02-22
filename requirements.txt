@@ -1,0 +1,10 @@
+base64
+chardet
+io
+matplotlib
+numpy
+pandas
+pathlib
+rapidfuzz
+seaborn
+spacy
